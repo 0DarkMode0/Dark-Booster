@@ -37,7 +37,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-<a href="https://github.com/0DarkMode0/Pinger/releases/download/Dark/Pinger.bat"><strong>[ Download ]</strong></a>
+<a href="https://github.com/0DarkMode0/Dark-Booster/releases/download/Dark/Dark-Booster.bat"><strong>[ Download ]</strong></a>
 
 </div>
 
